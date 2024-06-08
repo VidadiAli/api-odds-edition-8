@@ -1,6 +1,18 @@
 {
   "final": [
     {
+      "id": "87",
+      "countryName": "Norway",
+      "singerName": "Narmin",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png",
+      "result": 1,
+      "youtubeLink": "https://www.youtube.com/watch?v=90zhXrxmMfA",
+      "semi": 1,
+      "puan1": 1,
+      "puan2": 1
+    },
+    {
       "id": "53",
       "countryName": "Switzerland",
       "singerName": "Alirza",
@@ -747,6 +759,18 @@
       "semi": 1,
       "puan1": 1.05,
       "puan2": 1.1
+    },
+    {
+      "id": "77",
+      "countryName": "Norway",
+      "singerName": "Narmin",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png",
+      "result": 1,
+      "youtubeLink": "https://www.youtube.com/watch?v=90zhXrxmMfA",
+      "semi": 1,
+      "puan1": 1.01,
+      "puan2": 1
     }
   ]
 }
